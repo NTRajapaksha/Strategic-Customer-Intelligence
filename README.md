@@ -110,7 +110,7 @@ To bridge the gap between model predictions and business strategy, I deployed a 
 ### Setup
 
 ```bash
-git clone https://github.com/yourusername/strategic-customer-intelligence.git
+git clone https://github.com/NTRajapaksha/Strategic-Customer-Intelligence.git
 cd strategic-customer-intelligence
 pip install -r requirements.txt
 ```
