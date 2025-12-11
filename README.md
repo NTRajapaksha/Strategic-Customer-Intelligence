@@ -79,6 +79,27 @@ Using K-Means (K=4), we identified distinct customer tribes:
 
 ---
 
+## 📊 Interactive Dashboard (Business Intelligence)
+
+To bridge the gap between model predictions and business strategy, I deployed a **Looker Studio Dashboard**.
+
+![Dashboard Preview](images/dashboard_preview.pdf)
+
+### 🔗 [View Live Dashboard](https://lookerstudio.google.com/s/sadHI2AQ8rM)
+
+**Key Insights from the Dashboard:**
+- **The "Elite" Segment (Gold):** Represents high-income, high-spend users who prefer in-store shopping
+- **The "Web Junkies" (Grey):** High web traffic but low conversion. Recommended strategy: Retargeting ads rather than direct mail
+- **Revenue Concentration:** The top 2 clusters contribute **80% of total revenue**, justifying a tiered service model
+
+**Dashboard Features:**
+- Real-time customer segment distribution
+- Campaign response rates by cluster
+- Revenue contribution analysis
+- Interactive filters for demographic exploration
+
+---
+
 ## 🛠️ Installation & Usage
 
 ### Prerequisites
@@ -89,7 +110,7 @@ Using K-Means (K=4), we identified distinct customer tribes:
 ### Setup
 
 ```bash
-git clone https://github.com/NTRajapaksha/Strategic-Customer-Intelligence.git
+git clone https://github.com/yourusername/strategic-customer-intelligence.git
 cd strategic-customer-intelligence
 pip install -r requirements.txt
 ```
