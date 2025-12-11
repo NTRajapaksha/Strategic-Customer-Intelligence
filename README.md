@@ -83,7 +83,7 @@ Using K-Means (K=4), we identified distinct customer tribes:
 
 To bridge the gap between model predictions and business strategy, I deployed a **Looker Studio Dashboard**.
 
-![Dashboard Preview](images/Strategic_Customer_Intelligence_System.pdf)
+![Dashboard Preview](images/Strategic_Customer_Intelligence_System.png)
 
 ### 🔗 [View Live Dashboard](https://lookerstudio.google.com/s/sadHI2AQ8rM)
 
