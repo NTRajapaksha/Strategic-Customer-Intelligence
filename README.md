@@ -51,7 +51,7 @@ The XGBoost model outperformed baseline logistic regression benchmarks:
 
 ### 2. Confusion Matrix
 
-*Insert your Confusion Matrix Image here - e.g., `![Confusion Matrix](images/confusion_matrix.png)`*
+![Confusion Matrix](images/confusion_matrix.png)
 
 > **Insight:** The model correctly identified **48 out of 67** actual buyers in the test set, missing only 19.
 
@@ -75,7 +75,7 @@ Using K-Means (K=4), we identified distinct customer tribes:
 3. **The Whales:** Outlier spenders with high affinity for luxury products
 4. **New/Low Engagement:** Low recency and low interactions
 
-*Insert your Elbow Plot or Cluster Visualization here*
+![Elbow Plot](images/elbow_plot.png) 
 
 ---
 
