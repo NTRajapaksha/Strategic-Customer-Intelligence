@@ -57,7 +57,7 @@ The XGBoost model outperformed baseline logistic regression benchmarks:
 
 ### 3. Feature Importance (Drivers of Sales)
 
-*Insert your Feature Importance/SHAP Image here*
+![Feature Importance](images/feature_importance.png)
 
 > **Key Insights:**
 > - **Past Behavior is King:** Previous campaign acceptance (`AcceptedCmp5`, `AcceptedCmp3`) is the strongest predictor
